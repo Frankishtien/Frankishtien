@@ -17,6 +17,11 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Frankishtien&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
+<p align="center">
+ <h1 align="center">TryHackMe</h1> 
+</p>
+
+
 <a href="https://tryhackme.com/p/Frankishtien">
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Frankishtien.png" alt="Your Image Badge" />
