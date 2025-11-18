@@ -21,7 +21,7 @@
  <h1 align="center" ><a href="https://tryhackme.com/p/Frankishtien">TryHackMe</a></h1> 
 </p>
 
-<a href="https://tryhackme.com/p/Frankishtien">TryHackMe</a>
+
 
 <a href="https://tryhackme.com/p/Frankishtien">
 <p align="center">
