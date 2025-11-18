@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <h1 align="center" ><a href="https://tryhackme.com/p/Frankishtien">TryHackMe</a></h1> 
+ <h1 align="center" ><a target="_blank" href="https://tryhackme.com/p/Frankishtien">TryHackMe</a></h1> 
 </p>
 
 
