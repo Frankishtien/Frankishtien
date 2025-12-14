@@ -23,8 +23,9 @@
 
 
 
-<a href="https://tryhackme.com/p/Frankishtien">
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Frankishtien.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/Frankishtien">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Frankishtien.png" alt="TryHackMe Badge" />
+  </a>
 </p>
-</a>
+
