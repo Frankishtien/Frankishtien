@@ -76,8 +76,7 @@
 
 
 
-![snake gif](https://github.com/Frankishtien/Frankishtien/blob/output/snake.svg)
-
+![snake gif](https://github.com/Frankishtien/Frankishtien/blob/output/github-snake-dark.svg)
 
 
 
