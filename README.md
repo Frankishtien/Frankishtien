@@ -31,6 +31,34 @@
 
 
 
+
+## Badges
+
+<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/frankishtien">
+
+[<img alt="league-diamond" src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="120">](https://tryhackme.com/frankishtien/badges/diamond-league)
+
+</img>
+
+[<img alt="league-saphire" src="https://github.com/user-attachments/assets/b8b89247-7219-423f-8281-bc159b74a7a4" height="120">](https://tryhackme.com/frankishtien/badges/sapphire-league)
+
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="120"></img>
+
+[<img alt="streak500" src="https://github.com/user-attachments/assets/d423c36b-409c-465d-a10d-f35c9aeda310" height="120"></img>](https://tryhackme.com/frankishtien/badges/500-day-streak)
+
+<!-- 
+<img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="180"></img>
+<img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" height="180"></img>
+<img src="https://github.com/user-attachments/assets/99bf3554-b7ec-4d0c-a337-44ebabb9910b" height="150"></img> 
+-->
+
+
+
+
+
+
+
+
 ![snake gif](https://github.com/Frankishtien/Frankishtien/blob/output/snake.svg)
 
 
