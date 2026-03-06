@@ -34,17 +34,34 @@
 
 ## Badges
 
-<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/frankishtien">
+<!--<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/frankishtien">-->
 
-[<img alt="league-diamond" src="https://github.com/user-attachments/assets/e3005450-2d10-4311-869d-fe7a095449e4" height="120">](https://tryhackme.com/frankishtien/badges/diamond-league)
 
-</img>
+<div align="center">
 
-[<img alt="league-saphire" src="https://github.com/user-attachments/assets/b8b89247-7219-423f-8281-bc159b74a7a4" height="120">](https://tryhackme.com/frankishtien/badges/sapphire-league)
+<a href="https://tryhackme.com/Frankishtien/badges/gold-league">
+<img alt="league-diamond" src="https://assets.tryhackme.com/img/badges/league-gold.png" height="120">
+</a>
 
-<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="120"></img>
+<a href="https://tryhackme.com/Frankishtien/badges/linux-privesc">
+<img alt="league-saphire" src="https://assets.tryhackme.com/img/badges/linuxprivesc.png" height="120">
+</a>
 
-[<img alt="streak500" src="https://github.com/user-attachments/assets/d423c36b-409c-465d-a10d-f35c9aeda310" height="120"></img>](https://tryhackme.com/frankishtien/badges/500-day-streak)
+<img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="120">
+
+<a href="https://tryhackme.com/Frankishtien/badges/win-priv-esc">
+<img alt="streak500" src="https://assets.tryhackme.com/img/badges/windowsprivesc.png" height="120">
+</a>
+
+<a href="https://tryhackme.com/Frankishtien/badges/sql-slayer">
+<img alt="streak500" src="https://assets.tryhackme.com/img/badges/injection.png" height="120">
+</a>
+
+
+
+
+
+</div>
 
 <!-- 
 <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="180"></img>
