@@ -32,7 +32,7 @@
 
 
 
-## Badges
+## THM Badges
 
 <!--<img src="https://github.com/user-attachments/assets/42ced0ee-b9ae-4735-a520-24f34bb86bbd" height="110" alt="https://tryhackme.com/p/frankishtien">-->
 
