@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://discordapp.com/users/?????"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tryhackme.com/p/frankishtien"><img src="https://img.shields.io/badge/TryHackMe-%23D14836?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/Frankishtien"><img src="https://img.shields.io/badge/TryHackMe-%23D14836?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
