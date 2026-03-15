@@ -63,6 +63,11 @@
 </a>
 
 
+<a href="https://tryhackme.com/Frankishtien/badges/koth-game">
+<img alt="streak500" src="https://assets.tryhackme.com/img/badges/king.png" height="120">
+</a>
+
+
 
 
 
